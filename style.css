@@ -1,6 +1,6 @@
 .bg-house {
-  background-image: url("../assets/---.jpg");
-  background-size: cover;
+  background-image: url("../assets/house.jpg");
+  background-size: contain;
   background-position: center;
 }
 
