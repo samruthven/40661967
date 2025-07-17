@@ -8,6 +8,7 @@
   background-image: url("https://samruthven.github.io/40661967/assets/forest01.jpg");
   background-size: cover;
   background-position: center;
+  background-repeat: no-repeat;
 }
 
 .bg-forest02 {
