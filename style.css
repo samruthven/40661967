@@ -1,37 +1,7 @@
-.bg-house {
+.bg {
   background-image: url("https://samruthven.github.io/40661967/assets/house.jpg");
-  background-size: contain;
-  background-position: center;
-}
-
-.bg-forest01 {
-  background-image: url("https://samruthven.github.io/40661967/assets/forest01.jpg");
   background-size: contain;
   background-position: center;
   background-repeat: no-repeat;
   background-color: #121314;
-}
-
-.bg-forest02 {
-  background-image: url("../assets/---.jpg");
-  background-size: cover;
-  background-position: center;
-}
-
-.bg-forest03 {
-  background-image: url("../assets/---.jpg");
-  background-size: cover;
-  background-position: center;
-}
-
-.bg-cabin {
-  background-image: url("../assets/---.jpg");
-  background-size: cover;
-  background-position: center;
-}
-
-.bg-cauldron {
-  background-image: url("../assets/---.jpg");
-  background-size: cover;
-  background-position: center;
 }
