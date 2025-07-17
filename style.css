@@ -1,0 +1,35 @@
+.bg-house {
+  background-image: url("../assets/---.jpg");
+  background-size: cover;
+  background-position: center;
+}
+
+.bg-forest01 {
+  background-image: url("https://samruthven.github.io/40661967/assets/forest01.jpg");
+  background-size: cover;
+  background-position: center;
+}
+
+.bg-forest02 {
+  background-image: url("../assets/---.jpg");
+  background-size: cover;
+  background-position: center;
+}
+
+.bg-forest03 {
+  background-image: url("../assets/---.jpg");
+  background-size: cover;
+  background-position: center;
+}
+
+.bg-cabin {
+  background-image: url("../assets/---.jpg");
+  background-size: cover;
+  background-position: center;
+}
+
+.bg-cauldron {
+  background-image: url("../assets/---.jpg");
+  background-size: cover;
+  background-position: center;
+}
