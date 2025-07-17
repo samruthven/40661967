@@ -1,6 +1,6 @@
 .bg-house {
   background-image: url("https://samruthven.github.io/40661967/assets/house.jpg");
-  background-size: cover;
+  background-size: contain;
   background-position: center;
 }
 
