@@ -6,7 +6,7 @@
 
 .bg-forest01 {
   background-image: url("https://samruthven.github.io/40661967/assets/forest01.jpg");
-  background-size: cover;
+  background-size: contain;
   background-position: center;
   background-repeat: no-repeat;
   min-height: 100vh;
