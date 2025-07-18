@@ -126,21 +126,21 @@ button.a {
 	position: absolute;
 	left:50%;
 	transform: translateX(-50%);
-	top: 55%;
+	top: 75%;
 	font-size: 3em; 
 }
 button.b {
 	position: absolute;
 	left:50%;
 	transform: translateX(10%);
-	top: 65%;
+	top: 85%;
 	font-size: 1.5em; 
 }
 button.c {
 	position: absolute;
 	left:50%;
 	transform: translateX(-110%);
-	top: 65%;
+	top: 85%;
 	font-size: 1.5em; 
 }
 button:hover {
