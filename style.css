@@ -92,7 +92,7 @@ p {
 	position: absolute;
 	left: 50%;
 	transform: translateX(-50%);
-	top: 15%;
+	top: 10%;
 	font-size:1.4em;
 	font-weight: bold;
 }
