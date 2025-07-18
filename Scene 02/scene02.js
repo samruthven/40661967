@@ -1,3 +1,3 @@
 document.getElementById('scene02-button').onclick = function () {
-	window.location.href = 'scene03.html'
+	window.location.href = 'https://samruthven.github.io/40661967/Scene 03/scene03.html'
 };
