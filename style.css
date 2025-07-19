@@ -133,14 +133,14 @@ button.b {
 	position: absolute;
 	left:50%;
 	transform: translateX(10%);
-	top: 85%;
+	top: 97%;
 	font-size: 1.5em; 
 }
 button.c {
 	position: absolute;
 	left:50%;
 	transform: translateX(-110%);
-	top: 85%;
+	top: 97%;
 	font-size: 1.5em; 
 }
 button:hover {
